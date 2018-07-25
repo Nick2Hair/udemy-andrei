@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1520246666401-ce41aa495861?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b5072a9cafa713685b5b8768e92c6c57&auto=format&fit=crop&w=634&q=80);
+  background-size: cover;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  border: 5px dashed purple;
+  cursor: pointer;
+}
+
+p {
+  color: pink;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+}
